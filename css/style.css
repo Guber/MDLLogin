@@ -1,9 +1,9 @@
-.mdl-layout__content {
-  margin-top: 25vh;
+.mdl-grid {
+  display: table-cell;
+  vertical-align: middle;
   text-align: center;
 }
-
-.mdl-card {
-  margin-right: auto;
-  margin-left: auto;
+body{
+  display: table;
+  height: 100%;
 }
